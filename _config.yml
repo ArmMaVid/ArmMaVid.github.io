@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Edit _config.yml to set your title!
-description: Armando's blog
+title: Deep Learning in Philosophy
+description: A blog devoted to introduce Deep Learning as a tool in conceptual analysis
 github_username: ArmMaVid
 
 # Email and twitter are optional:
